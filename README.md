@@ -68,6 +68,17 @@ Before analysis, the dataset was cleaned and prepared to ensure accuracy:
 
 Note: While reviewing the dataset, we observed that sales values appeared higher than expected when compared with price per unit and quantity. However, this pattern was consistent across the dataset, suggesting a possible scaling factor rather than random errors. Therefore, the data was not modified to avoid introducing bias.
 
+## Dashboard
+
+An interactive dashboard was created in Excel using pivot tables and slicers to visualize key insights and allow filtering by:
+
+* Region
+* Product category
+* Retailer
+* Sales method
+
+<img width="1392" height="842" alt="adidas-sales-dashboard" src="https://github.com/user-attachments/assets/94062365-4db8-428c-ad08-4e3d9e598f8b" />
+
 ---
 
 ## Key Performance Indicators (KPIs)
@@ -163,17 +174,6 @@ Use historical sales data to improve inventory planning and reduce stock shortag
 
 ---
 
-## Dashboard
-
-An interactive dashboard was created in Excel using pivot tables and slicers to visualize key insights and allow filtering by:
-
-* Region
-* Product category
-* Retailer
-* Sales method
-
-<img width="1392" height="842" alt="adidas-sales-dashboard" src="https://github.com/user-attachments/assets/94062365-4db8-428c-ad08-4e3d9e598f8b" />
-
 ---
 
 ## Project Outcome
@@ -187,10 +187,10 @@ An interactive dashboard was created in Excel using pivot tables and slicers to 
 
 This project was completed collaboratively by:
 
-* Faith Caroline Moses
-* Charles
-* Ezekiel Okunyomi
-* Odiri Endurance
+* Faith Caroline MOSES
+* Charles EZURIKE
+* Ezekiel OKUNYOMI
+* Endurance ODIRI
 ---
 
 ## 📌 Conclusion
