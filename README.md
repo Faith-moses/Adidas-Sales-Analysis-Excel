@@ -77,7 +77,8 @@ An interactive dashboard was created in Excel using pivot tables and slicers to 
 * Retailer
 * Sales method
 
-<img width="1392" height="842" alt="adidas-sales-dashboard" src="https://github.com/user-attachments/assets/94062365-4db8-428c-ad08-4e3d9e598f8b" />
+<img width="1297" height="745" alt="ADIDAS SALES DATA DASHBOARD" src="https://github.com/user-attachments/assets/8401779b-fd23-47a3-ac27-ecee38d87850" />
+
 
 ---
 
